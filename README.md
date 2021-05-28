@@ -1,1 +1,1 @@
-# rate_parser
+Test script for Greenatom
